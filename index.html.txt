@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Gudiya Dubey Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+    <img src="profile.jpg" alt="Gudiya Dubey" class="profile">
+    <h1>Gudiya Dubey</h1>
+    <p id="typing"></p>
+
+    <div class="buttons">
+        <a href="https://www.linkedin.com/in/gudiya-dubey-4a118336a" 
+           class="btn" target="_blank">LinkedIn</a>
+    </div>
+</header>
+
+<section class="about">
+    <h2>About Me</h2>
+    <p>
+        Hello! I am Gudiya Dubey, an aspiring Full Stack Developer currently learning 
+        Web Development and Java. I am passionate about coding and improving my skills 🚀
+    </p>
+</section>
+
+<section class="projects">
+    <h2>Projects</h2>
+    <div class="project">
+        <h3>Coming Soon 🚀</h3>
+        <p>I am working on projects and will upload them soon.</p>
+    </div>
+</section>
+
+<section class="contact">
+    <h2>Contact</h2>
+    <p>Email: your@email.com</p>
+</section>
+
+<footer>
+    <p>© 2026 Gudiya Dubey</p>
+</footer>
+
+<script src="script.js"></script>
+</body>
+</html>
